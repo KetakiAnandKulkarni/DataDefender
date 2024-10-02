@@ -17,7 +17,7 @@ public class A_LoginPage extends javax.swing.JFrame {
         jLayeredPane1 = new javax.swing.JLayeredPane();
         jLabel2 = new javax.swing.JLabel();
         t1 = new javax.swing.JTextField();
-        jButton1 = new javax.swing.JButton();
+        jButton1 = new javax.swing.JButton(); 
         jSeparator1 = new javax.swing.JSeparator();
         jSeparator2 = new javax.swing.JSeparator();
         jLabel5 = new javax.swing.JLabel();
